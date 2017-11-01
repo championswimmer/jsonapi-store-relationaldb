@@ -7,6 +7,8 @@ node_js:
 services:
   - mysql
   - postgresql
+install: npm install -D
 addons:
   postgresql: "9.4"
 script: npm run ci
+after_success: npm run coveralls

@@ -1,8 +1,8 @@
-[![Coverage Status](https://coveralls.io/repos/championswimmer/jsonapi-store-sequelize/badge.svg?branch=master&service=github)](https://coveralls.io/github/championswimmer/jsonapi-store-sequelize?branch=master)
-[![Build Status](https://travis-ci.org/championswimmer/jsonapi-store-sequelize.svg?branch=master)](https://travis-ci.org/championswimmer/jsonapi-store-sequelize)
-[![npm version](https://badge.fury.io/js/jsonapi-store-relationaldb.svg)](http://badge.fury.io/js/jsonapi-store-relationaldb)
-[![Code Climate](https://codeclimate.com/github/championswimmer/jsonapi-store-sequelize/badges/gpa.svg)](https://codeclimate.com/github/championswimmer/jsonapi-store-sequelize)
-[![Dependencies Status](https://david-dm.org/championswimmer/jsonapi-store-sequelize.svg)](https://david-dm.org/championswimmer/jsonapi-store-sequelize)
+[![Coverage Status](https://coveralls.io/repos/coding-blocks/jsonapi-store-sequelize/badge.svg?branch=master&service=github)](https://coveralls.io/github/coding-blocks/jsonapi-store-sequelize?branch=master)
+[![Build Status](https://travis-ci.org/coding-blocks/jsonapi-store-sequelize.svg?branch=master)](https://travis-ci.org/coding-blocks/jsonapi-store-sequelize)
+[![npm version](https://badge.fury.io/js/%40coding-blocks%2Fjsonapi-store-sequelize.svg)](https://badge.fury.io/js/%40coding-blocks%2Fjsonapi-store-sequelize)
+[![Code Climate](https://codeclimate.com/github/coding-blocks/jsonapi-store-sequelize/badges/gpa.svg)](https://codeclimate.com/github/coding-blocks/jsonapi-store-sequelize)
+[![Dependencies Status](https://david-dm.org/coding-blocks/jsonapi-store-sequelize.svg)](https://david-dm.org/coding-blocks/jsonapi-store-sequelize)
 
 
 # jsonapi-store-sequelize

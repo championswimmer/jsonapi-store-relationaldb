@@ -1,6 +1,6 @@
 {
-  "name": "jsonapi-store-sequelize",
-  "version": "4.0.1",
+  "name": "@coding-blocks/jsonapi-store-sequelize",
+  "version": "4.1.1",
   "description": "Relational data store for jsonapi-server with Sequelize",
   "keywords": [
     "json:api",
@@ -13,14 +13,21 @@
   ],
   "main": "lib/sqlHandler.js",
   "author": "Arnav Gupta",
+  "contributors": [
+    "Holiday Extras",
+    "Oliver Rumbelow",
+    "Pedro Romani",
+    "Coding Blocks"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/championswimmer/jsonapi-store-sequelize.git"
+    "url": "https://github.com/coding-blocks/jsonapi-store-sequelize.git"
   },
   "engines": {
-    "node": ">= 6",
-    "npm": ">= 4"
+    "node": ">= 8",
+    "npm": ">= 5",
+    "yarn": ">= 1"
   },
   "dependencies": {
     "async": "2.5.0",
@@ -31,8 +38,9 @@
     "sequelize": "4.13.8"
   },
   "devDependencies": {
+    "@coding-blocks/jsonapi-server": "^3.2.6",
     "blanket": "1.2.3",
-    "coveralls": "3.0.0",
+    "codecov": "^3.0.0",
     "eslint": "4.8.0",
     "eslint-config-standard": "10.2.1",
     "eslint-plugin-import": "2.7.0",
@@ -40,13 +48,13 @@
     "eslint-plugin-node": "5.2.0",
     "eslint-plugin-promise": "3.5.0",
     "eslint-plugin-standard": "3.0.1",
-    "jsonapi-server": "3.2.1",
     "lokka": "1.7.0",
     "lokka-transport-http": "1.6.1",
     "mocha": "4.0.1",
     "mocha-lcov-reporter": "1.3.0",
     "mocha-performance": "0.1.1",
     "mysql2": "1.4.2",
+    "nyc": "^11.2.1",
     "pg": "7.3.0",
     "pg-hstore": "2.3.2",
     "plato": "1.7.0",
